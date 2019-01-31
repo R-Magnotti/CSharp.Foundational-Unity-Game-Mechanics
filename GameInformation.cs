@@ -2,7 +2,7 @@
 using System.Collections;
 
 //----------------------------------------------------------------------------------------
-//	Author: Richard Magnotti, HardlyBriefProgramming
+//	Author: Richard Magnotti, YouTuber: HardlyBriefProgramming
 //	V. 1.0
 //	Purpose: basic script to create a class to hold information on the character
 //----------------------------------------------------------------------------------------
